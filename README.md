@@ -27,9 +27,9 @@ Ce projet Spring Boot, "Exam2025", est une application de gestion d'étudiants u
 - **Swagger**
 
 ###  Couverture des Teste
-[test_list](data/test_list.png)
+![test_list](data/test_list.png)
 
-[test_coverage](data/test_coverage.png)
+![test_coverage](data/test_coverage.png)
 
 ---
 
